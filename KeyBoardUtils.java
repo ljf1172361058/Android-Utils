@@ -4,11 +4,11 @@ import android.content.Context;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 
-//打开或关闭软键盘
+// 打开或关闭软键盘
 public class KeyBoardUtils
 {
 	/**
-	 * 打卡软键盘
+	 * 打开软键盘
 	 * 
 	 * @param mEditText输入框
 	 * @param mContext上下文
