@@ -133,6 +133,7 @@ public class ApkInstallUtils {
 
     /**
      * 启动app
+     * 
      * com.exmaple.client/.MainActivity
      * com.exmaple.client/com.exmaple.client.MainActivity
      */
